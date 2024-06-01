@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.swp
+*~
+\#*\#
+
+# Arquivos de compilação
+*.min.css
+*.min.js
+
+# Dependências geradas
+/node_modules
+/bower_components
